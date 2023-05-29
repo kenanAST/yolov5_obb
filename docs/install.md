@@ -1,4 +1,4 @@
-# INSTAllation 
+# Installation
 ## Requirements
 * Linux **(Recommend)**, Windows **(not Recommend, Please refer to this [issue](https://github.com/hukaixuan19970627/yolov5_obb/issues/224) if you have difficulty in generating utils/nms_rotated_ext.cpython-XX-XX-XX-XX.so)**
 * Python 3.7+ 
